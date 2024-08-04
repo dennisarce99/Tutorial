@@ -27,3 +27,9 @@ Prueba de los ejemplos del tutorial
 ![Comandos Make](https://github.com/dennisarce99/Tutorial/blob/8b9b6505b5db527e2c9c8c5b030d2b6634afc77e/Parte%202/5-makecmd.png)
 
 ## Parte 3
+Evidencias de probar diseño de código, usando el código del video brindado
+Enlace al Video: https://youtu.be/AKO-SaOM7BA
+
+Enlace al diseño: https://github.com/dennisarce99/Tutorial/tree/27a164e75d80075b11b73d26f569c654bc793564/Tuto
+
+Nota: no se probó en el FPGA debido a que no he ido a retirar. Y el Makefile se escribió a mano ya que al usar comando make synth buscaba el Makefile de los ejemplos.
