@@ -7,11 +7,23 @@
 ## Parte 1
 Se muestran evidencias de la instalación de los programas y configuraciones, excluyendo lo que necesitara tener el FPGA.
 
-![Parte 1/1-extensiones.png](https://github.com/dennisarce99/Tutorial/blob/dccef069f83b4841253e7448f08f0f16ba68fdb3/Parte%201/1-extensiones.png)
+![Extensiones](https://github.com/dennisarce99/Tutorial/blob/dccef069f83b4841253e7448f08f0f16ba68fdb3/Parte%201/1-extensiones.png)
 
-![/Parte 1/2-oss.png](https://github.com/dennisarce99/Tutorial/blob/95f3a3dfcb451c5bb71cb9c59d1cb87b32a4998d/Parte%201/2-oss.png)
+![OSS](https://github.com/dennisarce99/Tutorial/blob/95f3a3dfcb451c5bb71cb9c59d1cb87b32a4998d/Parte%201/2-oss.png)
 
-![a](https://github.com/dennisarce99/Tutorial/blob/95f3a3dfcb451c5bb71cb9c59d1cb87b32a4998d/Parte%201/3-gnu.png)
+![GNU](https://github.com/dennisarce99/Tutorial/blob/95f3a3dfcb451c5bb71cb9c59d1cb87b32a4998d/Parte%201/3-gnu.png)
 
 ## Parte 2
 Prueba de los ejemplos del tutorial
+
+![Clon](https://github.com/dennisarce99/Tutorial/tree/8b9b6505b5db527e2c9c8c5b030d2b6634afc77e/Parte%202&/1-clontemplate.png)
+
+![YOSYS](https://github.com/dennisarce99/Tutorial/tree/8b9b6505b5db527e2c9c8c5b030d2b6634afc77e/Parte%202/2-pruebayosys.png)
+
+![Maketest](https://github.com/dennisarce99/Tutorial/tree/8b9b6505b5db527e2c9c8c5b030d2b6634afc77e/Parte%202/3-mtest.png)
+
+![Grafica](https://github.com/dennisarce99/Tutorial/tree/8b9b6505b5db527e2c9c8c5b030d2b6634afc77e/Parte%202/4-diagrama.png)
+
+![Comandos Make](https://github.com/dennisarce99/Tutorial/tree/8b9b6505b5db527e2c9c8c5b030d2b6634afc77e/Parte%202/5-makecmd.png)
+
+## Parte 3
