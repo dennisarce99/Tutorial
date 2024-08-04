@@ -16,14 +16,14 @@ Se muestran evidencias de la instalación de los programas y configuraciones, ex
 ## Parte 2
 Prueba de los ejemplos del tutorial
 
-![Clon](https://github.com/dennisarce99/Tutorial/tree/8b9b6505b5db527e2c9c8c5b030d2b6634afc77e/Parte%202&/1-clontemplate.png)
+![Clon](https://github.com/dennisarce99/Tutorial/blob/4dc22be35533e5df654d547b34883210ca9c8a2e/Parte%202/1-clontemplate.png)
 
-![YOSYS](https://github.com/dennisarce99/Tutorial/tree/8b9b6505b5db527e2c9c8c5b030d2b6634afc77e/Parte%202/2-pruebayosys.png)
+![YOSYS](https://github.com/dennisarce99/Tutorial/blob/4dc22be35533e5df654d547b34883210ca9c8a2e/Parte%202/2-pruebayosys.png)
 
-![Maketest](https://github.com/dennisarce99/Tutorial/tree/8b9b6505b5db527e2c9c8c5b030d2b6634afc77e/Parte%202/3-mtest.png)
+![Maketest](https://github.com/dennisarce99/Tutorial/blob/8b9b6505b5db527e2c9c8c5b030d2b6634afc77e/Parte%202/3-mtest.png)
 
-![Grafica](https://github.com/dennisarce99/Tutorial/tree/8b9b6505b5db527e2c9c8c5b030d2b6634afc77e/Parte%202/4-diagrama.png)
+![Grafica](https://github.com/dennisarce99/Tutorial/blob/8b9b6505b5db527e2c9c8c5b030d2b6634afc77e/Parte%202/4-diagrama.png)
 
-![Comandos Make](https://github.com/dennisarce99/Tutorial/tree/8b9b6505b5db527e2c9c8c5b030d2b6634afc77e/Parte%202/5-makecmd.png)
+![Comandos Make](https://github.com/dennisarce99/Tutorial/blob/8b9b6505b5db527e2c9c8c5b030d2b6634afc77e/Parte%202/5-makecmd.png)
 
 ## Parte 3
