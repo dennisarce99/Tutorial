@@ -7,7 +7,7 @@
 ## Parte 1
 Se muestran evidencias de la instalación de los programas y configuraciones, excluyendo lo que necesitara tener el FPGA.
 
-![a](Parte 1/1-extensiones.png)
+![Parte 1/1-extensiones.png](https://github.com/dennisarce99/Tutorial/blob/dccef069f83b4841253e7448f08f0f16ba68fdb3/Parte%201/1-extensiones.png)
 
 ![Carpeta con el OSS](/Parte 1/2-oss.png)
 ![Colocación del Path del GNU](/Parte 1/3-gnu.png)
